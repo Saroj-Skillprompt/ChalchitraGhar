@@ -1,0 +1,18 @@
+{
+  "Home": "Home",
+  "Movies": "Movies",
+  "Dashboard": "Dashboard",
+  "Profile": "Profile",
+  "Logout": "Logout",
+  "Login": "Login",
+  "Register": "Register",
+   "signIn": "Sign In",
+    "email": "Email Address",
+    "password": "Password",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password",
+    "signingIn": "Signing in...",
+    "newCustomer": "New Customer?",
+     "BrowseMovies": "Browse Movies"
+  
+}
