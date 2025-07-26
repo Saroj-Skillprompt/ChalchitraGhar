@@ -63,6 +63,7 @@ const Navigation = () => {
     <nav className="w-full border-b border-gray-700 bg-white dark:bg-[#0f172a] text-black dark:text-white px-4 py-3 fixed top-0 z-50">
       <section className="w-full max-w-[1280px] mx-auto px-4 flex flex-wrap justify-between items-center">
         {/* Left Nav */}
+        <div className="font-bold text-[20px]"><span className="text-red-500">Chalchitra</span><span className="text-yellow-500">Ghar</span></div>
         <div className="flex items-center space-x-6 text-[16px] font-medium mb-3 sm:mb-0">
           <Link
             to="/"
